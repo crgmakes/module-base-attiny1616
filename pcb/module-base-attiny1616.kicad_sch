@@ -1,0 +1,728 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "a8149920-3b7f-4d7d-8e96-7a0b38870225")
+	(paper "A4")
+	(title_block
+		(title "Base Module ATTINY-1616")
+		(date "<<release-date>>")
+		(rev "<<tag>>")
+		(comment 1 "<<hash>>")
+	)
+	(lib_symbols)
+	(rectangle
+		(start 191.516 91.44)
+		(end 277.876 152.4)
+		(stroke
+			(width 0.2)
+			(type default)
+			(color 194 0 194 1)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 48a1c97c-1d42-43da-b014-946074fccbf4)
+	)
+	(rectangle
+		(start 16.256 91.44)
+		(end 102.616 152.4)
+		(stroke
+			(width 0.2)
+			(type default)
+			(color 194 0 194 1)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 4ff3fc93-8e65-4666-ac31-3839027f4938)
+	)
+	(rectangle
+		(start 103.886 91.44)
+		(end 190.246 152.4)
+		(stroke
+			(width 0.2)
+			(type default)
+			(color 194 0 194 1)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 7e312cca-8b57-4ad5-a3bf-892ab874384a)
+	)
+	(text "Bottom"
+		(exclude_from_sim no)
+		(at 147.574 160.274 0)
+		(effects
+			(font
+				(face "Caros ExtraBold")
+				(size 5 5)
+				(bold yes)
+				(color 132 0 132 1)
+			)
+		)
+		(uuid "405cac68-135c-4d7b-b390-e09b0a573676")
+	)
+	(text "Top"
+		(exclude_from_sim no)
+		(at 59.69 160.02 0)
+		(effects
+			(font
+				(face "Caros ExtraBold")
+				(size 5 5)
+				(bold yes)
+				(color 132 0 132 1)
+			)
+		)
+		(uuid "8e39d77b-1899-48d9-b987-a2602f05372a")
+	)
+	(text "Orthographic"
+		(exclude_from_sim no)
+		(at 236.22 159.766 0)
+		(effects
+			(font
+				(face "Caros ExtraBold")
+				(size 5 5)
+				(bold yes)
+				(color 132 0 132 1)
+			)
+		)
+		(uuid "c950974f-bc0c-471b-a9f1-9bb6a27bcc1e")
+	)
+	(wire
+		(pts
+			(xy 187.96 29.21) (xy 185.42 29.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "03c8d662-cadf-4149-94da-73fd571ad557")
+	)
+	(wire
+		(pts
+			(xy 175.26 49.53) (xy 175.26 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1d619f39-a76c-46c5-a189-497e694b6905")
+	)
+	(wire
+		(pts
+			(xy 118.11 17.78) (xy 118.11 29.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1fef6710-e9ea-47e2-837a-6ec48fbda09c")
+	)
+	(wire
+		(pts
+			(xy 182.88 20.32) (xy 182.88 31.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "33dfcd86-c46c-4d2c-b213-d5a08dbb5b19")
+	)
+	(wire
+		(pts
+			(xy 162.56 30.48) (xy 177.8 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "396ae7ac-0d76-4f4d-8eba-3a967416efd2")
+	)
+	(wire
+		(pts
+			(xy 120.65 20.32) (xy 182.88 20.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4949492a-8b98-4575-8b8a-c21448686528")
+	)
+	(wire
+		(pts
+			(xy 177.8 46.99) (xy 187.96 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6a874729-2b9d-477b-8224-3e01b8b64f67")
+	)
+	(wire
+		(pts
+			(xy 120.65 31.75) (xy 120.65 20.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "77156f36-93ee-4ca0-b9e8-9b4222ea7353")
+	)
+	(wire
+		(pts
+			(xy 111.76 43.18) (xy 127 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9c5fb8b3-42fa-46b1-8293-858869be5e5d")
+	)
+	(wire
+		(pts
+			(xy 111.76 29.21) (xy 118.11 29.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a896b566-9119-4195-aca8-89fe7def1997")
+	)
+	(wire
+		(pts
+			(xy 182.88 31.75) (xy 187.96 31.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a8f843d9-5246-456b-b1d2-0dbb995ec18c")
+	)
+	(wire
+		(pts
+			(xy 177.8 30.48) (xy 177.8 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b127a14b-3e06-4f4c-b7c6-ca5d9c74a155")
+	)
+	(wire
+		(pts
+			(xy 185.42 17.78) (xy 118.11 17.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b3f2d215-f1cb-403d-8434-0eab2b502bc0")
+	)
+	(wire
+		(pts
+			(xy 162.56 33.02) (xy 175.26 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d2efb027-8390-42db-909d-77f751438d85")
+	)
+	(wire
+		(pts
+			(xy 185.42 29.21) (xy 185.42 17.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "db501ff3-7649-4090-a3d7-5d0ad54d2821")
+	)
+	(wire
+		(pts
+			(xy 111.76 40.64) (xy 127 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dbb204b8-4ae8-4fea-8364-dcb7760082cd")
+	)
+	(wire
+		(pts
+			(xy 187.96 49.53) (xy 175.26 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ee72d6c0-acdd-4504-8d5c-eb64d01975c0")
+	)
+	(wire
+		(pts
+			(xy 111.76 31.75) (xy 120.65 31.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ff32b476-884b-4f75-a9d8-8561d487419e")
+	)
+	(sheet
+		(at 33.0199 25.3999)
+		(size 35.56 27.94)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "286c1f37-b285-4c3f-bd6d-061a220fab98")
+		(property "Sheetname" "Requirements"
+			(at 33.0199 24.6883 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "requirements.kicad_sch"
+			(at 33.0199 53.9245 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "module-base-attiny1616"
+				(path "/a8149920-3b7f-4d7d-8e96-7a0b38870225"
+					(page "1")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 76.708 25.4)
+		(size 35.052 27.94)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "573c51ea-89ab-4745-b6d8-c69e780cd603")
+		(property "Sheetname" "MCU"
+			(at 76.708 24.6884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "mcu.kicad_sch"
+			(at 76.708 53.9246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "RXD" input
+			(at 111.76 29.21 0)
+			(uuid "c7374140-1649-4b6c-b16d-09d8c2689763")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SCL" output
+			(at 111.76 40.64 0)
+			(uuid "51768859-51ff-4ee9-b4b4-d59843a74ee3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SDA" bidirectional
+			(at 111.76 43.18 0)
+			(uuid "ce8a3de0-9ae9-4ea6-8b31-7eb11c02d66e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "TXD" output
+			(at 111.76 31.75 0)
+			(uuid "113ec424-7140-4edd-b21d-f801bb7461c6")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "module-base-attiny1616"
+				(path "/a8149920-3b7f-4d7d-8e96-7a0b38870225"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 127 25.4)
+		(size 35.56 27.94)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "750b9b07-db7a-4289-8a61-542df9f7ebc0")
+		(property "Sheetname" "Peripherals"
+			(at 127 24.6884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "peripherals.kicad_sch"
+			(at 127 53.9246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "INT" output
+			(at 127 38.1 180)
+			(uuid "a2991446-1d10-456b-a6ab-b9fd62fa85f8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "INT0" output
+			(at 162.56 27.94 0)
+			(uuid "9448b9cf-5cd1-45ce-b253-aa6d96e1bfa5")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "INT1" output
+			(at 162.56 35.56 0)
+			(uuid "dcfa4d8f-dbfe-46c0-b604-31f8784bf750")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "INT2" output
+			(at 162.56 43.18 0)
+			(uuid "c579d9e2-651c-47ba-8af0-4d65091271ac")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "INT3" output
+			(at 147.32 53.34 270)
+			(uuid "f3ab6d2a-86d7-4577-be76-ea1059de6581")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "RESET" input
+			(at 127 35.56 180)
+			(uuid "0f2b2e02-8911-48d4-a428-c4ac355db951")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SCL" input
+			(at 127 40.64 180)
+			(uuid "b16f2101-801d-4c5a-912a-d83b4d6a0008")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SCL0" input
+			(at 162.56 30.48 0)
+			(uuid "402f3bbf-f41e-4a2d-924d-229472b19c72")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SCL1" input
+			(at 162.56 38.1 0)
+			(uuid "d85c5d0d-482e-47d1-99ae-b8b350acca67")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SCL2" input
+			(at 162.56 45.72 0)
+			(uuid "f5f7733c-cd0a-4e32-96c2-9678fd8506f7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SCL3" input
+			(at 149.86 53.34 270)
+			(uuid "b4991bb2-e4f8-4774-ad27-609c2d61bcd1")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SDA" bidirectional
+			(at 127 43.18 180)
+			(uuid "59602c85-cd2a-4fff-9ebe-73bacb361765")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SDA0" bidirectional
+			(at 162.56 33.02 0)
+			(uuid "2f63512d-154a-438e-8eb8-7485f72dac96")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SDA1" bidirectional
+			(at 162.56 40.64 0)
+			(uuid "20774424-6b2c-4378-98fa-ecbd749aa6a6")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SDA2" bidirectional
+			(at 162.56 48.26 0)
+			(uuid "890af92a-17bc-4502-ac3b-b698f1ba83ac")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SDA3" bidirectional
+			(at 152.4 53.34 270)
+			(uuid "dab2ea9b-b202-44f1-8332-d2d7cd5e9f8c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "module-base-attiny1616"
+				(path "/a8149920-3b7f-4d7d-8e96-7a0b38870225"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 187.96 25.4)
+		(size 33.02 27.94)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "95bfa604-6248-4846-bc58-916558699f76")
+		(property "Sheetname" "Interfaces"
+			(at 187.96 24.6884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "interfaces.kicad_sch"
+			(at 187.96 53.9246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "EXT_SCL" output
+			(at 187.96 46.99 180)
+			(uuid "a729a4fb-56e6-4e97-b135-e62e73032c1e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "EXT_SDA" bidirectional
+			(at 187.96 49.53 180)
+			(uuid "57e8695f-d9ec-4928-affc-69a7a51e6de9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "RXD" input
+			(at 187.96 29.21 180)
+			(uuid "7c6e6300-56fc-460e-bcc2-8a37b6d30063")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "TXD" output
+			(at 187.96 31.75 180)
+			(uuid "8bbf000c-ec1f-42a9-8e7d-ce15444c6456")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "module-base-attiny1616"
+				(path "/a8149920-3b7f-4d7d-8e96-7a0b38870225"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 228.6 25.4)
+		(size 33.02 27.94)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b155bddb-f000-475c-81a8-ca80fc2346c2")
+		(property "Sheetname" "Power"
+			(at 228.6 24.6884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power.kicad_sch"
+			(at 228.6 53.9246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "module-base-attiny1616"
+				(path "/a8149920-3b7f-4d7d-8e96-7a0b38870225"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

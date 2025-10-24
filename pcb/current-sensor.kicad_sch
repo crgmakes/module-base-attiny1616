@@ -1,0 +1,14 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "ba6c8da8-0499-43d5-be85-34d5f31c8808")
+	(paper "A4")
+	(title_block
+		(title "Base Module ATTINY-1616")
+		(date "<<release-date>>")
+		(rev "<<tag>>")
+		(comment 1 "<<hash>>")
+	)
+	(lib_symbols)
+)
