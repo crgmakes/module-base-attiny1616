@@ -1,6 +1,6 @@
-# Current Detector Module
+# Aquarius Module Starter
 
-All the source files for the current detector module hardware.
+All the starter files for an Aquarius module based on the ATTINY1616.
 
 # Software 
 
