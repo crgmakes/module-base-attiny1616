@@ -19618,7 +19618,7 @@
 		)
 		(uuid "47ca0da0-9bec-4943-aa47-9af4a8e103f9")
 	)
-	(text_box "BASIC\n\n* ATTINY-1616 MCU\n* I2C Switch\n* Programming Header\n* Static Protection\n\n"
+	(text_box "BASIC\n\n* ATTINY-1616 MCU\n* I2C Switch\n* Programming Header\n* ESD Protection\n\n"
 		(exclude_from_sim yes)
 		(at 17.78 25.4 0)
 		(size 85.09 55.88)
@@ -19693,7 +19693,7 @@
 		)
 		(uuid "8fb3beb2-98a0-436e-8428-488a3cacf092")
 	)
-	(text_box "Design Considerations\n\n* I2C Switch is optional and only used to expansion when more than one bus is required.\n* No reverse voltage or pwoer regulation provided.\n"
+	(text_box "Design Considerations\n\n* I2C Switch is optional and only used as expansion when more than one bus is required.\n* No reverse polarity or power regulation provided.\n* Board can be made using only 2 Layers "
 		(exclude_from_sim yes)
 		(at 103.886 82.296 0)
 		(size 85.09 56.515)
@@ -19820,6 +19820,42 @@
 				(hide yes)
 			)
 		)
+		(property "ALT_LCSC" ""
+			(at 22.86 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALT_LCSC_2" ""
+			(at 22.86 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALT_MN" ""
+			(at 22.86 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALT_MPN" ""
+			(at 22.86 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "current-module"
 				(path "/a8149920-3b7f-4d7d-8e96-7a0b38870225/286c1f37-b285-4c3f-bd6d-061a220fab98"
@@ -19903,6 +19939,42 @@
 			)
 		)
 		(property "Mouser" ""
+			(at 78.74 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALT_LCSC" ""
+			(at 78.74 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALT_LCSC_2" ""
+			(at 78.74 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALT_MN" ""
+			(at 78.74 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALT_MPN" ""
 			(at 78.74 186.69 0)
 			(effects
 				(font
@@ -20001,6 +20073,42 @@
 				(hide yes)
 			)
 		)
+		(property "ALT_LCSC" ""
+			(at 67.31 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALT_LCSC_2" ""
+			(at 67.31 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALT_MN" ""
+			(at 67.31 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALT_MPN" ""
+			(at 67.31 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project ""
 				(path "/a8149920-3b7f-4d7d-8e96-7a0b38870225/286c1f37-b285-4c3f-bd6d-061a220fab98"
@@ -20066,6 +20174,42 @@
 			)
 		)
 		(property "MPN" ""
+			(at 148.59 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALT_LCSC" ""
+			(at 148.59 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALT_LCSC_2" ""
+			(at 148.59 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALT_MN" ""
+			(at 148.59 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALT_MPN" ""
 			(at 148.59 175.26 0)
 			(effects
 				(font
@@ -20164,6 +20308,42 @@
 				(hide yes)
 			)
 		)
+		(property "ALT_LCSC" ""
+			(at 44.45 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALT_LCSC_2" ""
+			(at 44.45 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALT_MN" ""
+			(at 44.45 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALT_MPN" ""
+			(at 44.45 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "current-module"
 				(path "/a8149920-3b7f-4d7d-8e96-7a0b38870225/286c1f37-b285-4c3f-bd6d-061a220fab98"
@@ -20237,6 +20417,42 @@
 				(hide yes)
 			)
 		)
+		(property "ALT_LCSC" ""
+			(at 148.59 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALT_LCSC_2" ""
+			(at 148.59 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALT_MN" ""
+			(at 148.59 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALT_MPN" ""
+			(at 148.59 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "current-module"
 				(path "/a8149920-3b7f-4d7d-8e96-7a0b38870225/286c1f37-b285-4c3f-bd6d-061a220fab98"
@@ -20302,6 +20518,42 @@
 			)
 		)
 		(property "MPN" ""
+			(at 148.59 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALT_LCSC" ""
+			(at 148.59 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALT_LCSC_2" ""
+			(at 148.59 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALT_MN" ""
+			(at 148.59 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALT_MPN" ""
 			(at 148.59 170.18 0)
 			(effects
 				(font
@@ -20392,6 +20644,42 @@
 			)
 		)
 		(property "Mouser" ""
+			(at 55.88 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALT_LCSC" ""
+			(at 55.88 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALT_LCSC_2" ""
+			(at 55.88 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALT_MN" ""
+			(at 55.88 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALT_MPN" ""
 			(at 55.88 186.69 0)
 			(effects
 				(font
@@ -20500,6 +20788,42 @@
 				(hide yes)
 			)
 		)
+		(property "ALT_LCSC" ""
+			(at 33.02 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALT_LCSC_2" ""
+			(at 33.02 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALT_MN" ""
+			(at 33.02 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALT_MPN" ""
+			(at 33.02 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "current-module"
 				(path "/a8149920-3b7f-4d7d-8e96-7a0b38870225/286c1f37-b285-4c3f-bd6d-061a220fab98"
@@ -20565,6 +20889,42 @@
 			)
 		)
 		(property "MPN" ""
+			(at 148.59 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALT_LCSC" ""
+			(at 148.59 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALT_LCSC_2" ""
+			(at 148.59 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALT_MN" ""
+			(at 148.59 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ALT_MPN" ""
 			(at 148.59 180.34 0)
 			(effects
 				(font
